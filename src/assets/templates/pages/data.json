@@ -1,0 +1,22 @@
+{
+  "p-index": {
+    "head": {
+      "title": "home"
+    },
+    "org-menu": true,
+    "org-banner": true,
+    "org-about-us": true,
+    "org-classes": true,
+    "org-training": true,
+    "org-tasting": true,
+    "org-happy-client": true,
+    "org-footer": true,
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "bootstrap": true
+      }
+    }
+  }
+}
